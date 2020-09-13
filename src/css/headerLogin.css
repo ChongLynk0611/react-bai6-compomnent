@@ -1,0 +1,14 @@
+.HeaderLogin{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.HeaderLogin button{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.HeaderLogin p{
+   font-size: 32px;
+
+}
